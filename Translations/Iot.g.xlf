@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Iot">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 593010792 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mq data - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 593010792 - Field 728543345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MQ value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mq data - Field MQ value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 593010792 - Field 851516935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mq data - Field Creation date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 593010792 - Field 975184216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mq data - Field Creation time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2412359500 - Field 3475288728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MQ3 setup - Field Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2412359500 - Field 3462307810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MQ3 setup - Field Limit Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2412359500 - Field 696389717 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not drunk, Drunk</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MQ3 setup - Field Condition - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2412359500 - Field 696389717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MQ3 setup - Field Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1013746768 - NamedType 950858157" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are drunk, orders posting prohibited!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MQ3 management - NamedType Error001_Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1013746768 - NamedType 1788368452" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are not drunk, orders posting prohibited!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MQ3 management - NamedType Error002_Err</note>
+        </trans-unit>
+        <trans-unit id="Page 1834306369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MQvalues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MQ3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1834306369 - Control 1372159833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mqValue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MQ3 - Control mqValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2590156204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MQ3 Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mq3 setup - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

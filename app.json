@@ -1,0 +1,25 @@
+{
+  "id": "ff05d64c-bee7-42f9-9121-b101c3423c00",
+  "name": "Iot",
+  "publisher": "Andrey Baludin",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "d365.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "features": ["TranslationFile"],
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "3.0",
+  "showMyCode": true
+}
